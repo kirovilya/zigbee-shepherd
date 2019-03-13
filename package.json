@@ -33,13 +33,13 @@
   "dependencies": {
     "areq": "^0.2.0",
     "busyman": "^0.3.0",
-    "cc-znp": "https://github.com/kirovilya/cc-znp/tarball/master",
+    "cc-znp": "https://github.com/kirovilya/cc-znp/tarball/b8ba41e1d9bbe172c46da81f13ed5177bc3db7bf",
     "debug": "^3.2.6",
     "objectbox": "^0.3.0",
     "proving": "^0.1.0",
     "q": "^1.5.1",
-    "zcl-id": "https://github.com/Koenkk/zcl-id/tarball/master",
-    "zcl-packet": "https://github.com/kirovilya/zcl-packet/tarball/master",
+    "zcl-id": "https://github.com/koenkk/zcl-id/tarball/77ba3058c6c4b09a9958761ae5e3046765c12872",
+    "zcl-packet": "https://github.com/kirovilya/zcl-packet/tarball/65b852e57891907a2aa585d126992f858151ccf1",
     "ziee": "^0.3.0",
     "zstack-constants": "^0.2.0"
   },
