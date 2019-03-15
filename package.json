@@ -33,7 +33,7 @@
   "dependencies": {
     "areq": "^0.2.0",
     "busyman": "^0.3.0",
-    "cc-znp": "https://github.com/kirovilya/cc-znp/tarball/710dd0a6a5056600ba695903b5b80ef64772d408",
+    "cc-znp": "https://github.com/kirovilya/cc-znp/tarball/f33d3311289c11e2bbc15a11ccff68ad72cb62ac",
     "debug": "^3.2.6",
     "objectbox": "^0.3.0",
     "proving": "^0.1.0",
