@@ -41,7 +41,7 @@
     "zcl-id": "git+https://github.com/Koenkk/zcl-id.git#4fa75c92424cd070a3bf6e1f4640b1e3ad8f802d",
     "zcl-packet": "git+https://github.com/Koenkk/zcl-packet.git#31b023453793dda9536a1dd874bf65d2b1b3fc7f",
     "ziee": "^0.3.0",
-    "zstack-constants": "^0.2.0"
+    "zstack-constants": "git+https://github.com/Koenkk/zstack-constants#a6a57116a42ab38cd87d33e4737502c28c46d1b3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
