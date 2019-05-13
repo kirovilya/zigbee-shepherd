@@ -33,15 +33,15 @@
   "dependencies": {
     "areq": "^0.2.0",
     "busyman": "^0.3.0",
-    "cc-znp": "https://github.com/kirovilya/cc-znp/tarball/f33d3311289c11e2bbc15a11ccff68ad72cb62ac",
+    "cc-znp": "git+https://github.com/Koenkk/cc-znp.git#a994d0c532c53745dfae596f69ed924158d8ecce",
     "debug": "^3.2.6",
     "objectbox": "^0.3.0",
     "proving": "^0.1.0",
     "q": "^1.5.1",
-    "zcl-id": "https://github.com/koenkk/zcl-id/tarball/77ba3058c6c4b09a9958761ae5e3046765c12872",
-    "zcl-packet": "https://github.com/kirovilya/zcl-packet/tarball/65b852e57891907a2aa585d126992f858151ccf1",
+    "zcl-id": "git+https://github.com/Koenkk/zcl-id.git#4fa75c92424cd070a3bf6e1f4640b1e3ad8f802d",
+    "zcl-packet": "git+https://github.com/Koenkk/zcl-packet.git#31b023453793dda9536a1dd874bf65d2b1b3fc7f",
     "ziee": "^0.3.0",
-    "zstack-constants": "^0.2.0"
+    "zstack-constants": "git+https://github.com/Koenkk/zstack-constants#a6a57116a42ab38cd87d33e4737502c28c46d1b3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
