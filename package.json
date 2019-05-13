@@ -39,7 +39,7 @@
     "proving": "^0.1.0",
     "q": "^1.5.1",
     "zcl-id": "https://github.com/Koenkk/zcl-id/tarball/4fa75c92424cd070a3bf6e1f4640b1e3ad8f802d",
-    "zcl-packet": "git+https://github.com/Koenkk/zcl-packet.git#31b023453793dda9536a1dd874bf65d2b1b3fc7f",
+    "zcl-packet": "https://github.com/kirovilya/zcl-packet/tarball/c82ce0f8e9736e368c12b40673bc35c26bc7aa3f",
     "ziee": "^0.3.0",
     "zstack-constants": "https://github.com/Koenkk/zstack-constants/tarball/a6a57116a42ab38cd87d33e4737502c28c46d1b3"
   },
